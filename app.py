@@ -21,8 +21,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- LOGO ET TITRE ---
-# Remplace 'logo.png' par le chemin local ou l'URL de ton logo
-# st.image("logo.png", width=200) 
+st.sidebar.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AiaZLlYMOO5RKwf4iuMztA-YO8sFSOjMqQ&s", width=200)
 st.title("🏆 Molliet Lauper SA : Pronostics 2026")
 st.subheader("Faites vos jeux, soutenez votre équipe !")
 
